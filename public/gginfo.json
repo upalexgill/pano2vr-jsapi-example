@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"type": "panorama",
+	"external": {
+		"js": [],
+		"css": [
+			"https://fonts.googleapis.com/css?family=Barlow+Condensed:800|Barlow:200i,600&display=swap"
+		]
+	},
+	"skin": {
+		"js": "skin.js"
+	},
+	"creationdate": "2022-06-16T12:01:08.023Z",
+	"configuration": "pano.xml",
+	"player": {
+		"js": "pano2vr_player.js",
+		"version": "6.1.15"
+	},
+	"preview": {
+		"img": "preview.jpg",
+		"width": 640,
+		"height": 480
+	}
+}
